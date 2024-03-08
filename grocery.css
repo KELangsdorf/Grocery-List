@@ -1,0 +1,106 @@
+H1 {
+    text-align: center;
+    color: hotpink;
+    font-family: cursive;
+}
+
+body {
+    background: black;
+    color: plum;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.GS {
+    background-color: antiquewhite;
+    color: chocolate;
+    width: 400px;
+    height: 100px;
+    text-align: center;
+    line-height: 400%;
+    display: block;
+    border: solid slateblue;
+    border-radius: 0 3px;
+}
+
+.table-container {
+
+    margin-right: 20px;
+    /* Add spacing between tables */
+
+}
+
+/* Style for individual tables (optional) */
+
+table {
+
+    border-collapse: collapse;
+    /* Optional: Collapsing table borders */
+
+    width: 185px;
+    /* Set a fixed width for each table */
+
+}
+
+.friends {
+    color: blue;
+    width: 400px;
+    height: 100px;
+    text-align: center;
+    line-height: 400%;
+    display: block;
+    background-color: chocolate;
+    border: solid white;
+    border-radius: 0 3px;
+}
+
+.section {
+    display: inline-block;
+}
+
+.section2 {
+    display: inline-block;
+}
+
+.section3 {
+    display: inline-block;
+}
+
+.section4 {
+    display: inline-block;
+}
+
+.party {
+    display: inline-block;
+}
+
+.cheering {
+    display: inline-block;
+}
+
+.dcolor {
+    background-color: crimson;
+    color: aliceblue;
+    border: solid white;
+    border-radius: 0 3px;
+}
+
+.scolor {
+    background-color: blue;
+    color: yellow;
+    border: solid white;
+    border-radius: 0 3px;
+}
+
+.acolor {
+    background-color: blueviolet;
+    color: yellowgreen;
+    border: solid white;
+    border-radius: 0 3px;
+}
+
+.bcolor {
+    background-color: mediumaquamarine;
+    color: indigo;
+    border: solid white;
+    border-radius: 0 3px;
+}
